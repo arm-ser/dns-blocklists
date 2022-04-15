@@ -1,5 +1,4 @@
-# dns-blocklists
-DNS Blocklist Collection for pi-hole
+# DNS Blocklist Collection for pi-hole
 
 ## Ads
 
