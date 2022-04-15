@@ -1,2 +1,8 @@
 # dns-blocklists
-DNS Blocklists for pi-hole (ads, telemetry, malware)
+DNS Blocklist Collection for pi-hole
+
+## Ads
+
+## Tracking
+
+## Telemetry, Malware
