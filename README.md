@@ -19,7 +19,7 @@ This is a blacklist collection for my personal use in [pi-hole](https://pi-hole.
 
         
 ### Specific Services and devices
-All Specific Services and devices Links in one File: [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/71b5f1c36d6f2de19e98e3cd46f588aaadb21f31/specific-services-and-devices.txt)                                      
+All Specific Services and devices Links in one File: [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/71b5f1c36d6f2de19e98e3cd46f588aaadb21f31/specific-services-and-devices.txt)
 | Description                | Source                                                                                                                                     | List                                                                                                                                           |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | Metadata and Telemetry     | [Technoy](https://www.technoy.de/lists/blocklists-fuer-pihole/)                                                                            | [Raw](https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt)                                                           |
