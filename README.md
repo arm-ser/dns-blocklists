@@ -47,6 +47,6 @@ All Ads, Tracking and Telemetry Links in one file: [Raw](https://raw.githubuserc
 | Handpicked from my Fire TV Stick 4K | Raw  |
 
 ## External Resources 
-- [What is pi-hole?](https://github.com/pi-hole)  
+- [What is pi-hole?](https://github.com/pi-hole/pi-hole)  
 - [Adding lists to pi-hole](https://www.sammatthews.co.uk/2022/02/pi-hole-ad-lists/)
 - [Blocklist formating](https://www.reddit.com/r/pihole/comments/bzufqv/hosts_format_for_blocklist/)
