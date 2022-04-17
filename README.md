@@ -1,6 +1,6 @@
 # DNS Blocklist Collection for pi-hole
 
-#### About
+### About
 
 This is a blacklist collection for my personal use in [pi-hole](https://pi-hole.net/). 
 
@@ -9,7 +9,7 @@ This is a blacklist collection for my personal use in [pi-hole](https://pi-hole.
 - Lists with `*` Have some domains commented. Uncoment them if you want more customized experience  
 - Use at your own risk
 
-## Collections
+### Collections
 <table border="0">
 <tbody>
 <tr>
@@ -30,7 +30,7 @@ This is a blacklist collection for my personal use in [pi-hole](https://pi-hole.
 </tbody>
 </table>
 
-## Specific Services and devices
+### Specific Services and devices
 <table border="0">
 <tbody>
 <tr>
@@ -70,7 +70,7 @@ This is a blacklist collection for my personal use in [pi-hole](https://pi-hole.
 </tbody>
 </table>
 
-## Ads, Tracking and Telemetry
+### Ads, Tracking and Telemetry
 <table border="0">
 <tbody>
 <tr>
@@ -103,12 +103,12 @@ This is a blacklist collection for my personal use in [pi-hole](https://pi-hole.
 </tr>
 <tr>
 <td colspan="2">All Combined</td>
-<td>&nbsp;Raw</td>
+<td>Raw</td>
 </tr>
 </tbody>
 </table>
 
-## My Lists
+### My Lists
 <table border="0">
 <tbody>
 <tr>
@@ -117,12 +117,12 @@ This is a blacklist collection for my personal use in [pi-hole](https://pi-hole.
 </tr>
 <tr>
 <td>Handpicked from my Fire TV Stick 4K&nbsp;</td>
-<td>&nbsp;Raw</td>
+<td>Raw</td>
 </tr>
 </tbody>
 </table>
 
-### External Resources 
+## External Resources 
 
 How to install pi-hole
 - [pi-hole github](https://github.com/pi-hole)
