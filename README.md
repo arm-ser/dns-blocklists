@@ -53,9 +53,7 @@ All Ads, Tracking and Telemetry Links in one file: [Raw](https://raw.githubuserc
 
 How to install pi-hole
 - [pi-hole](https://github.com/pi-hole)  
-
 How to add lists to pi-hole
-- [Adding lisys](https://www.sammatthews.co.uk/2022/02/pi-hole-ad-lists/)
-
+- [Adding lists](https://www.sammatthews.co.uk/2022/02/pi-hole-ad-lists/)
 Thread about list format
 - [Hosts format for blocklist](https://www.reddit.com/r/pihole/comments/bzufqv/hosts_format_for_blocklist/)
