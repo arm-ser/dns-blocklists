@@ -63,9 +63,13 @@ This is a blacklist collection for my personal use in [pi-hole](https://pi-hole.
 <td><a href="https://raw.githubusercontent.com/marq24/pihole-blocklist/master/samsung-smart-tv.txt">Raw</a></td>
 </tr>
 <tr>
-<td>Metadata* </td>
+<td>Amazon Fire TV Metadata * </td>
 <td><a href="https://github.com/Perflyst">Perflyst</a></td>
 <td><a href="https://perflyst.github.io/PiHoleBlocklist/AmazonFireTV.txt">Raw</a></td>
+</tr>
+<tr>
+<td colspan="2">All Links in one File</td>
+<td><a href="https://raw.githubusercontent.com/arm-ser/dns-blocklists/71b5f1c36d6f2de19e98e3cd46f588aaadb21f31/specific-services-and-devices.txt">Raw</a></td>
 </tr>
 </tbody>
 </table>
@@ -102,8 +106,8 @@ This is a blacklist collection for my personal use in [pi-hole](https://pi-hole.
 <td><a href="https://blocklistproject.github.io/Lists/alt-version/tracking-nl.txt">Raw</a></td>
 </tr>
 <tr>
-<td colspan="2">All Combined</td>
-<td>Raw</td>
+<td colspan="2">All Links in one file</td>
+<td><a href="https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/ads-tracking-telemetry.txt">Raw</a></td>
 </tr>
 </tbody>
 </table>
@@ -125,6 +129,7 @@ This is a blacklist collection for my personal use in [pi-hole](https://pi-hole.
 ## External Resources 
 
 How to install pi-hole
-- [pi-hole github](https://github.com/pi-hole)
+- [pi-hole github](https://github.com/pi-hole)  
+  
 Thread about list format
 - reddit [Hosts format for blocklist](https://www.reddit.com/r/pihole/comments/bzufqv/hosts_format_for_blocklist/)
