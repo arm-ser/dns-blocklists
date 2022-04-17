@@ -41,19 +41,12 @@ All Ads, Tracking and Telemetry Links in one file: [Raw](https://raw.githubuserc
 | Privacy               | [Blocklistproject](https://github.com/blocklistproject/Lists)                                   | [Raw](https://blocklistproject.github.io/Lists/alt-version/piracy-nl.txt)                       |
 | Tracking              | [Blocklistproject](https://github.com/blocklistproject/Lists)                                   | [Raw](https://blocklistproject.github.io/Lists/alt-version/tracking-nl.txt)                     |
 
-
-
-
 ### My Lists
 | Description                         | List |
 | ----------------------------------- | ---- |
 | Handpicked from my Fire TV Stick 4K | Raw  |
 
 ## External Resources 
-
-How to install pi-hole
-- [pi-hole](https://github.com/pi-hole)  
-How to add lists to pi-hole
-- [Adding lists](https://www.sammatthews.co.uk/2022/02/pi-hole-ad-lists/)
-Thread about list format
-- [Hosts format for blocklist](https://www.reddit.com/r/pihole/comments/bzufqv/hosts_format_for_blocklist/)
+- [What is pi-hole?](https://github.com/pi-hole)  
+- [Adding lists to pi-hole](https://www.sammatthews.co.uk/2022/02/pi-hole-ad-lists/)
+- [Blocklist formating](https://www.reddit.com/r/pihole/comments/bzufqv/hosts_format_for_blocklist/)
