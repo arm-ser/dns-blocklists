@@ -55,4 +55,4 @@ How to install pi-hole
 - [pi-hole github](https://github.com/pi-hole)  
   
 Thread about list format
-- reddit [Hosts format for blocklist](https://www.reddit.com/r/pihole/comments/bzufqv/hosts_format_for_blocklist/)
+- [Hosts format for blocklist](https://www.reddit.com/r/pihole/comments/bzufqv/hosts_format_for_blocklist/)
