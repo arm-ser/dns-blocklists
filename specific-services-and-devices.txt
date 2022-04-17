@@ -1,0 +1,5 @@
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
+https://gist.githubusercontent.com/hkamran80/779019103fcd306979411d44c8d38459/raw/e0f084b396bb8ffcb390c8e7272ae96a6c292d10/SmartTV2.txt
+https://perflyst.github.io/PiHoleBlocklist/SmartTV.txt
+https://raw.githubusercontent.com/marq24/pihole-blocklist/master/samsung-smart-tv.txt
+https://perflyst.github.io/PiHoleBlocklist/AmazonFireTV.txt
