@@ -1,0 +1,5 @@
+https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
+https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
+https://blocklistproject.github.io/Lists/alt-version/ads-nl.txt
+https://blocklistproject.github.io/Lists/alt-version/piracy-nl.txt
+https://blocklistproject.github.io/Lists/alt-version/tracking-nl.txt
