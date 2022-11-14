@@ -1,8 +1,13 @@
 # Date: 11/14/2022
 # Truecaller : v12.27.7 (2448.115b929ab6)
-# Collected with iodeos : 2.6-20220726-starlte 
+# Collected with:
+# - iodeos : 2.6-20220726-starlte 
+# - AuroraStore : v4.1.1(41)
 # On Samsung Galaxy s9 : SM-G960F
 # IP Location : Los Angeles, CA
+
+
+################################################################ iode OS
 
 # Domains captured but not blacklisted
 # search5-noneu.truecaller.com
@@ -41,3 +46,36 @@ conversions.appsflyer.com
 in1.wzrkt.com
 up.apkmos.com
 
+
+################################################################ AuroraStore
+
+fabric.io
+crashlytics.com
+crashlytics.firebase.google.com
+crash..firebase.google.com
+crashlytics.firebase.invertase.io
+appsflyer.com
+ads.facebook.com
+appevents.facebook.com
+marketing.facebook.com
+CampaignTrackingReceiver.facebook.com
+login.facebook.com
+ads.device.amazon.com
+ads.google.com
+AdView.ads.gms.android.google.com
+AdActivity.ads.gms.android.google.com
+AdRequest.ads.gms.android.google.com
+mediation.ads.gms.android.google.com
+doubleclick.ads.gms.android.google.com
+admob.gms.android.google.com
+ads.android.google.com
+ads.unity.google.com
+firebase_ads.firebase.google.com
+analytics.firebase.google.com
+measurement.gms.android.google.com
+firebase_analytics.firebase.google.com
+library.omid.iab.com
+IabHelperImpl.util.prime31.com
+IAB.prime31.com
+publisher.vungle.com
+warren.vungle.com
