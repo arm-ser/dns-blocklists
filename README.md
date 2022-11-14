@@ -52,6 +52,7 @@ All Ads, Tracking and Telemetry Links in one file: [Raw](https://raw.githubuserc
 | Description                         | List |
 | ----------------------------------- | ---- |
 | Gosund v5.1.72 | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/gosund)  |
+| Tekegraph T9.0.2 - P10.3 | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/telegraph) |
 
 
 
