@@ -17,6 +17,16 @@ This is a blacklist collection for my personal use in [pi-hole](https://pi-hole.
 | My Firebog in one File : (Just copy and paste into pi-hole)        | [The Firebog](https://firebog.net/)               | [Raw](https://v.firebog.net/hosts/lists.php?type=tick)                                   |
 | My blocklist.info in one File : (Just copy and paste into pi-hole) | [Blocklists Info](https://blocklists.info/)       | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/blocklists.info.txt) |
 
+### Ads, Tracking and Telemetry
+
+| Description           | Source                                                                                          | List                                                                                            |
+| --------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------|
+| Tracking & Telemetry  | [Notrack](https://gitlab.com/quidsup/notrack-blocklists)                                        | [Raw](https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt)           |
+| Ads & Tracking        | [Developer Dan](https://github.com/lightswitch05/hosts)                                         | [Raw](https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt)            |
+| Ads List              | [Blocklistproject](https://github.com/blocklistproject/Lists)                                   | [Raw](https://blocklistproject.github.io/Lists/alt-version/ads-nl.txt)                          |
+| Privacy               | [Blocklistproject](https://github.com/blocklistproject/Lists)                                   | [Raw](https://blocklistproject.github.io/Lists/alt-version/piracy-nl.txt)                       |
+| Tracking              | [Blocklistproject](https://github.com/blocklistproject/Lists)                                   | [Raw](https://blocklistproject.github.io/Lists/alt-version/tracking-nl.txt)                     |
+| All Links in one File: (Just copy and paste into pi-hole) | arm-ser/dns-blocklists | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/ads-tracking-telemetry.txt)|
         
 ### Specific Services and devices
 
@@ -28,18 +38,6 @@ This is a blacklist collection for my personal use in [pi-hole](https://pi-hole.
 | Samsung Smart TV           | [Matthias Marquardt](https://github.com/marq24)                                                                                            | [Raw](https://raw.githubusercontent.com/marq24/pihole-blocklist/master/samsung-smart-tv.txt)                                                   |
 | Amazon Fire TV Metadata \* | [Perflyst](https://github.com/Perflyst)                                                                                                    | [Raw](https://perflyst.github.io/PiHoleBlocklist/AmazonFireTV.txt)                                                                             |
 | All Links in one File: (Just copy and paste into pi-hole)| arm-ser/dns-blocklists | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/71b5f1c36d6f2de19e98e3cd46f588aaadb21f31/specific-services-and-devices.txt) |
-
-
-### Ads, Tracking and Telemetry
-
-| Description           | Source                                                                                          | List                                                                                            |
-| --------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------|
-| Tracking & Telemetry  | [Notrack](https://gitlab.com/quidsup/notrack-blocklists)                                        | [Raw](https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt)           |
-| Ads & Tracking        | [Developer Dan](https://github.com/lightswitch05/hosts)                                         | [Raw](https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt)            |
-| Ads List              | [Blocklistproject](https://github.com/blocklistproject/Lists)                                   | [Raw](https://blocklistproject.github.io/Lists/alt-version/ads-nl.txt)                          |
-| Privacy               | [Blocklistproject](https://github.com/blocklistproject/Lists)                                   | [Raw](https://blocklistproject.github.io/Lists/alt-version/piracy-nl.txt)                       |
-| Tracking              | [Blocklistproject](https://github.com/blocklistproject/Lists)                                   | [Raw](https://blocklistproject.github.io/Lists/alt-version/tracking-nl.txt)                     |
-| All Links in one File: (Just copy and paste into pi-hole) | arm-ser/dns-blocklists | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/ads-tracking-telemetry.txt)|
 
 ### My Lists
 
