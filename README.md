@@ -19,7 +19,7 @@ This is a blacklist collection for my personal use in [pi-hole](https://pi-hole.
 
         
 ### Specific Services and devices
-All Specific Services and devices Links in one File: [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/71b5f1c36d6f2de19e98e3cd46f588aaadb21f31/specific-services-and-devices.txt)
+
 | Description                | Source                                                                                                                                     | List                                                                                                                                           |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | Metadata and Telemetry     | [Technoy](https://www.technoy.de/lists/blocklists-fuer-pihole/)                                                                            | [Raw](https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt)                                                           |
@@ -27,11 +27,10 @@ All Specific Services and devices Links in one File: [Raw](https://raw.githubuse
 | Metadata and Telemetry     | [Perflyst](https://github.com/Perflyst)                                                                                                    | [Raw](https://perflyst.github.io/PiHoleBlocklist/SmartTV.txt)                                                                                  |
 | Samsung Smart TV           | [Matthias Marquardt](https://github.com/marq24)                                                                                            | [Raw](https://raw.githubusercontent.com/marq24/pihole-blocklist/master/samsung-smart-tv.txt)                                                   |
 | Amazon Fire TV Metadata \* | [Perflyst](https://github.com/Perflyst)                                                                                                    | [Raw](https://perflyst.github.io/PiHoleBlocklist/AmazonFireTV.txt)                                                                             |
-
+| All Links in one File: | arm-ser/dns-blocklists | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/71b5f1c36d6f2de19e98e3cd46f588aaadb21f31/specific-services-and-devices.txt) |
 
 
 ### Ads, Tracking and Telemetry
-All Ads, Tracking and Telemetry Links in one file: [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/ads-tracking-telemetry.txt)
 
 | Description           | Source                                                                                          | List                                                                                            |
 | --------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------|
@@ -40,6 +39,7 @@ All Ads, Tracking and Telemetry Links in one file: [Raw](https://raw.githubuserc
 | Ads List              | [Blocklistproject](https://github.com/blocklistproject/Lists)                                   | [Raw](https://blocklistproject.github.io/Lists/alt-version/ads-nl.txt)                          |
 | Privacy               | [Blocklistproject](https://github.com/blocklistproject/Lists)                                   | [Raw](https://blocklistproject.github.io/Lists/alt-version/piracy-nl.txt)                       |
 | Tracking              | [Blocklistproject](https://github.com/blocklistproject/Lists)                                   | [Raw](https://blocklistproject.github.io/Lists/alt-version/tracking-nl.txt)                     |
+| All Links in one File: | arm-ser/dns-blocklists | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/ads-tracking-telemetry.txt)|
 
 ### My Lists
 
@@ -52,17 +52,22 @@ All My Lists in one File: [Raw]
 
 
 ##### Android
-All Android Links in one File: [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/android-all.txt)
+
 | Description                         | List |
 | ----------------------------------- | ---- |
 | [Gosund](https://play.google.com/store/apps/details?id=com.gosund.smart) v5.1.72 | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/gosund)  |
 | [Graph Messenger](https://play.google.com/store/apps/details?id=ir.ilmili.telegraph) T9.0.2 - P10.3 | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/telegraph) |
 | [Truecaller](https://play.google.com/store/apps/details?id=com.truecaller) v12.27.7 Premium Unlocked | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/truecaller) |
-| [Tracker Control](https://f-droid.org/packages/net.kollnig.missioncontrol.fdroid/) v2022102501| [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/instapro)|
+| [Insta Pro](https://insta-pro.app/)| [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/instapro)|
+| All Links in one File: | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/android-all.txt) |
 
 
+
+## Tools and OS used
+- [Tracker Control](https://f-droid.org/packages/net.kollnig.missioncontrol.fdroid/) 
 
 ## External Resources 
 - [What is pi-hole?](https://github.com/pi-hole/pi-hole)  
 - [Adding lists to pi-hole](https://www.sammatthews.co.uk/2022/02/pi-hole-ad-lists/)
 - [Blocklist formating](https://www.reddit.com/r/pihole/comments/bzufqv/hosts_format_for_blocklist/)
+
