@@ -51,7 +51,7 @@ All Ads, Tracking and Telemetry Links in one file: [Raw](https://raw.githubuserc
 ##### Android
 | Description                         | List |
 | ----------------------------------- | ---- |
-| Gosund v5.1.18 | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/gosund)  |
+| Gosund v5.1.72 | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/gosund)  |
 
 
 
