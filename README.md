@@ -42,9 +42,19 @@ All Ads, Tracking and Telemetry Links in one file: [Raw](https://raw.githubuserc
 | Tracking              | [Blocklistproject](https://github.com/blocklistproject/Lists)                                   | [Raw](https://blocklistproject.github.io/Lists/alt-version/tracking-nl.txt)                     |
 
 ### My Lists
+
+##### TV
 | Description                         | List |
 | ----------------------------------- | ---- |
 | Handpicked from my Fire TV Stick 4K | Raw  |
+
+##### Android
+| Description                         | List |
+| ----------------------------------- | ---- |
+| Gosund v5.1.18 | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/gosund)  |
+
+
+
 
 ## External Resources 
 - [What is pi-hole?](https://github.com/pi-hole/pi-hole)  
