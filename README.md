@@ -58,6 +58,7 @@ All Android Links in one File: [Raw](https://raw.githubusercontent.com/arm-ser/d
 | [Gosund](https://play.google.com/store/apps/details?id=com.gosund.smart) v5.1.72 | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/gosund)  |
 | [Graph Messenger](https://play.google.com/store/apps/details?id=ir.ilmili.telegraph) T9.0.2 - P10.3 | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/telegraph) |
 | [Truecaller](https://play.google.com/store/apps/details?id=com.truecaller) v12.27.7 Premium Unlocked | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/truecaller) |
+| [Tracker Control](https://f-droid.org/packages/net.kollnig.missioncontrol.fdroid/) v2022102501| [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/instapro)|
 
 
 
