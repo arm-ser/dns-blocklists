@@ -55,9 +55,9 @@ All My Lists in one File: [Raw]
 All Android Links in one File: [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/android-all.txt)
 | Description                         | List |
 | ----------------------------------- | ---- |
-| Gosund v5.1.72 | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/gosund)  |
-| Tekegraph T9.0.2 - P10.3 | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/telegraph) |
-| Truecaller v12.27.7 | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/truecaller) |
+| [Gosund](https://play.google.com/store/apps/details?id=com.gosund.smart) v5.1.72 | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/gosund)  |
+| [Graph Messenger](https://play.google.com/store/apps/details?id=ir.ilmili.telegraph) T9.0.2 - P10.3 | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/telegraph) |
+| [Truecaller](https://play.google.com/store/apps/details?id=com.truecaller) v12.27.7 Premium Unlocked | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/truecaller) |
 
 
 
