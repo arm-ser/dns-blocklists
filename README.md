@@ -52,7 +52,7 @@ All My Lists in one File: [Raw]
 
 
 ##### Android
-All Android Links in one File: [Raw]
+All Android Links in one File: [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/android-all.txt)
 | Description                         | List |
 | ----------------------------------- | ---- |
 | Gosund v5.1.72 | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/gosund)  |
