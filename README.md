@@ -43,17 +43,21 @@ All Ads, Tracking and Telemetry Links in one file: [Raw](https://raw.githubuserc
 
 ### My Lists
 
+All My Lists in one File: [Raw]
+
 ##### TV
 | Description                         | List |
 | ----------------------------------- | ---- |
 | Handpicked from my Fire TV Stick 4K | Raw  |
 
+
 ##### Android
+All Android Links in one File: [Raw]
 | Description                         | List |
 | ----------------------------------- | ---- |
 | Gosund v5.1.72 | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/gosund)  |
 | Tekegraph T9.0.2 - P10.3 | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/telegraph) |
-
+| Truecaller v12.27.7 | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/truecaller) |
 
 
 
