@@ -5,7 +5,6 @@
 # IP Location : Los Angeles, CA
 
 # Domains captured but not blacklisted
-# presence-grpc-noneu.truecaller.com
 # search5-noneu.truecaller.com
 # filter-store-4-noneu.truecaller.com
 # premium-noneu.truecaller.com
@@ -21,6 +20,7 @@
 # lastactivity-noneu.truecaller.com
 # messenger-noneu.truecaller.com
 
+presence-grpc-noneu.truecaller.com
 presence-grpc-eu.truecaller.com
 tagging5-noneu.truecaller.com
 edge-locations5-noneu.truecaller.com
