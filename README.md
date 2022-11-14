@@ -14,8 +14,8 @@ This is a blacklist collection for my personal use in [pi-hole](https://pi-hole.
 
 | Description                          | Source                                            | List                                                                                     |
 | :----------------------------------- | :------------------------------------------------ | :--------------------------------------------------------------------------------------- |
-| All ticked lists from Firebog        | [The Firebog](https://firebog.net/)               | [Raw](https://v.firebog.net/hosts/lists.php?type=tick)                                   |
-| Lists I use from blocklist.info      | [Blocklists Info](https://blocklists.info/)       | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/blocklists.info.txt) |
+| All Firebog Links in one File: (Just copy and paste into pi-hole)        | [The Firebog](https://firebog.net/)               | [Raw](https://v.firebog.net/hosts/lists.php?type=tick)                                   |
+| All blocklist.info Links in one File: (Just copy and paste into pi-hole) | [Blocklists Info](https://blocklists.info/)       | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/blocklists.info.txt) |
 
         
 ### Specific Services and devices
