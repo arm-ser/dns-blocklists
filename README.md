@@ -12,7 +12,7 @@ This is a blacklist collection for my personal use in [pi-hole](https://pi-hole.
  
 ### Collections
 
-| Description                          | Source                                            | List                                                                                     |
+| <div style="width:400px">Description</div>                         | <div style="width:150px">Source</div>       | <div style="width:50px">List</div>                                                      |
 | :----------------------------------- | :------------------------------------------------ | :--------------------------------------------------------------------------------------- |
 | My Firebog in one File : (Just copy and paste into pi-hole)        | [The Firebog](https://firebog.net/)               | [Raw](https://v.firebog.net/hosts/lists.php?type=tick)                                   |
 | My blocklist.info in one File : (Just copy and paste into pi-hole) | [Blocklists Info](https://blocklists.info/)       | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/blocklists.info.txt) |
