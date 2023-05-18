@@ -45,7 +45,7 @@ All My Lists in one File: [Raw]
 
 ##### TV
 | Description                         | List |
-| ----------------------------------- | ---- |
+| ----------------------------------- | -------------- |
 | Handpicked from my Fire TV Stick 4K | Raw  |
 
 
