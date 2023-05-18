@@ -10,6 +10,7 @@ This is a blacklist collection for my personal use in [pi-hole](https://pi-hole.
 - Use at your own risk
  
  
+ 
 ### Collections
 
 | <div style="width:400px">Description</div>                         | <div style="width:150px">Source</div>       | <div style="width:50px">List</div>                                                      |
@@ -44,20 +45,20 @@ This is a blacklist collection for my personal use in [pi-hole](https://pi-hole.
 All My Lists in one File: [Raw]
 
 ##### TV
-| Description                         | List |
-| ----------------------------------- | -------------- |
-| Handpicked from my Fire TV Stick 4K | Raw  |
+| <div style="width:400px">Description</div> | <div style="width:150px">Lists</div> |
+| ------------------------------------------ | ------------------------------------ |
+| Handpicked from my Fire TV Stick 4K        | Raw                                  |
 
 
 ##### Android
 
-| Description                         | List |
-| ----------------------------------- | ---- |
-| [Gosund](https://play.google.com/store/apps/details?id=com.gosund.smart) v5.1.72 | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/gosund)  |
-| [Graph Messenger](https://play.google.com/store/apps/details?id=ir.ilmili.telegraph) T9.0.2 - P10.3 | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/telegraph) |
-| [Truecaller](https://play.google.com/store/apps/details?id=com.truecaller) v12.27.7 Premium Unlocked | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/truecaller) |
-| [Insta Pro ](https://insta-pro.app/) V9.55| [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/instapro)|
-| All Links in one File: (Just copy and paste into pi-hole) | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/android-all.txt) |
+| <div style="width:400px">Description</div>                                                           | <div style="width:150px">Lists</div>                                                 |
+| ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| [Gosund](https://play.google.com/store/apps/details?id=com.gosund.smart) v5.1.72                     | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/gosund)          |
+| [Graph Messenger](https://play.google.com/store/apps/details?id=ir.ilmili.telegraph) T9.0.2 - P10.3  | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/telegraph)       |
+| [Truecaller](https://play.google.com/store/apps/details?id=com.truecaller) v12.27.7 Premium Unlocked | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/truecaller)      |
+| [Insta Pro ](https://insta-pro.app/) V9.55                                                           | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/instapro)        |
+| All Links in one File: (Just copy and paste into pi-hole)                                            | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/android-all.txt) |
 
 
 
