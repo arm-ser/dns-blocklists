@@ -45,7 +45,7 @@ This is a blacklist collection for my personal use in [pi-hole](https://pi-hole.
 All My Lists in one File: [Raw]
 
 ##### TV
-| <div style="width:400px">Description</div> | <div style="width:150px">Lists</div> |
+| <div style="width:450px">Description</div> | <div style="width:150px">Lists</div> |
 | ------------------------------------------ | ------------------------------------ |
 | Handpicked from my Fire TV Stick 4K        | Raw                                  |
 
