@@ -11,14 +11,14 @@ This is a blacklist collection for my personal use in [pi-hole](https://pi-hole.
  
 ### Collections
 
-| Description<img width=350/>                                        | Source<img width=120/>                      |                                    List<img width=40>                                    |
+| Description<img width=370/>                                        | Source<img width=120/>                      |                                    List<img width=40>                                    |
 |:------------------------------------------------------------------ |:------------------------------------------- |:----------------------------------------------------------------------------------------:|
 | My Firebog in one File : (Just copy and paste into pi-hole)        | [The Firebog](https://firebog.net/)         |                  [Raw](https://v.firebog.net/hosts/lists.php?type=tick)                  |
 | My blocklist.info in one File : (Just copy and paste into pi-hole) | [Blocklists Info](https://blocklists.info/) | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/blocklists.info.txt) |
 
 ### Ads, Tracking and Telemetry
 
-| Description<img width=350/>                               | Source<img width=120/>                                        |                                       List<img width=40>                                        |
+| Description<img width=370/>                               | Source<img width=120/>                                        |                                       List<img width=40>                                        |
 |:--------------------------------------------------------- |:------------------------------------------------------------- |:-----------------------------------------------------------------------------------------------:|
 | Tracking & Telemetry                                      | [Notrack](https://gitlab.com/quidsup/notrack-blocklists)      |      [Raw](https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt)      |
 | Ads & Tracking                                            | [Developer Dan](https://github.com/lightswitch05/hosts)       |      [Raw](https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt)       |
@@ -29,7 +29,7 @@ This is a blacklist collection for my personal use in [pi-hole](https://pi-hole.
         
 ### Specific Services and devices
 
-| Description<img width=350/>                               | Source<img width=120/>                                          |                                                               List<img width=40>                                                               |
+| Description<img width=370/>                               | Source<img width=120/>                                          |                                                               List<img width=40>                                                               |
 |:--------------------------------------------------------- |:--------------------------------------------------------------- |:----------------------------------------------------------------------------------------------------------------------------------------------:|
 | Metadata and Telemetry                                    | [Technoy](https://www.technoy.de/lists/blocklists-fuer-pihole/) |                              [Raw](https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt)                              |
 | Metadata and Telemetry                                    | [H. Kamran](https://github.com/hkamran80)                       | [Raw](https://gist.githubusercontent.com/hkamran80/779019103fcd306979411d44c8d38459/raw/e0f084b396bb8ffcb390c8e7272ae96a6c292d10/SmartTV2.txt) |
@@ -43,13 +43,13 @@ This is a blacklist collection for my personal use in [pi-hole](https://pi-hole.
 All My Lists in one File: [Raw]
 
 ##### TV
-| Description<img width=260/>         | List<img width=40> | 
+| Description<img width=300/>         | List<img width=40> | 
 | ----------------------------------- |:------------------:|
 | Handpicked from my Fire TV Stick 4K |        Raw         |
 
 
 ##### Android
-| Description<img width=260/>                                                                          |                                  List<img width=40>                                  |
+| Description<img width=300/>                                                                          |                                  List<img width=40>                                  |
 | ---------------------------------------------------------------------------------------------------- |:------------------------------------------------------------------------------------:|
 | [Gosund](https://play.google.com/store/apps/details?id=com.gosund.smart) v5.1.72                     |     [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/gosund)      |
 | [Graph Messenger](https://play.google.com/store/apps/details?id=ir.ilmili.telegraph) T9.0.2 - P10.3  |    [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/telegraph)    |
