@@ -13,13 +13,13 @@ This is a blacklist collection for my personal use in [pi-hole](https://pi-hole.
 ### Collections
 
 | <div style="width:400px">Description</div>                         | <div style="width:150px">Source</div>       | <div style="width:50px">List</div>                                                      |
-| :----------------------------------- | :------------------------------------------------ | :--------------------------------------------------------------------------------------- |
-| My Firebog in one File : (Just copy and paste into pi-hole)        | [The Firebog](https://firebog.net/)               | [Raw](https://v.firebog.net/hosts/lists.php?type=tick)                                   |
-| My blocklist.info in one File : (Just copy and paste into pi-hole) | [Blocklists Info](https://blocklists.info/)       | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/blocklists.info.txt) |
+|:------------------------------------------------------------------ |:------------------------------------------- |:---------------------------------------------------------------------------------------- |
+| My Firebog in one File : (Just copy and paste into pi-hole)        | [The Firebog](https://firebog.net/)         | [Raw](https://v.firebog.net/hosts/lists.php?type=tick)                                   |
+| My blocklist.info in one File : (Just copy and paste into pi-hole) | [Blocklists Info](https://blocklists.info/) | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/blocklists.info.txt) |
 
 ### Ads, Tracking and Telemetry
 
-| Description           | Source                                                                                          | List                                                                                            |
+| <div style="width:400px">Description</div>                         | <div style="width:150px">Source</div>       | <div style="width:50px">List</div>                                                      |
 | --------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------|
 | Tracking & Telemetry  | [Notrack](https://gitlab.com/quidsup/notrack-blocklists)                                        | [Raw](https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt)           |
 | Ads & Tracking        | [Developer Dan](https://github.com/lightswitch05/hosts)                                         | [Raw](https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt)            |
@@ -30,7 +30,7 @@ This is a blacklist collection for my personal use in [pi-hole](https://pi-hole.
         
 ### Specific Services and devices
 
-| Description                | Source                                                                                                                                     | List                                                                                                                                           |
+| <div style="width:400px">Description</div>                         | <div style="width:150px">Source</div>       | <div style="width:50px">List</div>                                                      |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | Metadata and Telemetry     | [Technoy](https://www.technoy.de/lists/blocklists-fuer-pihole/)                                                                            | [Raw](https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt)                                                           |
 | Metadata and Telemetry     | [H. Kamran](https://github.com/hkamran80)                                                                                                  | [Raw](https://gist.githubusercontent.com/hkamran80/779019103fcd306979411d44c8d38459/raw/e0f084b396bb8ffcb390c8e7272ae96a6c292d10/SmartTV2.txt) |
