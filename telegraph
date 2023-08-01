@@ -1,8 +1,41 @@
-# Date: 11/14/2022
-# Telegraph : T9.0.2 - P10.3
-# Collected with iodeos : 2.6-20220726-starlte 
+# Date: 8/1/2023
+# Telegraph for Android : vT9.6.6 - P10.9.3 (3366)  
+# Collected with inure : build87-trial
 # On Samsung Galaxy s9 : SM-G960F
-# IP Location : Los Angeles, CA
+# IP Location : Seattle, CA
+
+com.unity3d.services.ads.adunit.AdUnitActivity
+com.unity3d.services.ads.adunit.AdUnitTransparentActivity
+com.unity3d.services.ads.adunit.AdUnitTransparentSoftwareActivity
+com.unity3d.services.ads.adunit.AdUnitSoftwareActivity
+com.adcolony.sdk.AdColonyInterstitialActivity
+com.adcolony.sdk.AdColonyAdViewActivity
+com.applovin.adview.AppLovinFullscreenActivity
+com.applovin.sdk.AppLovinWebViewActivity
+com.applovin.mediation.hybridAds.MaxHybridMRecAdActivity
+com.applovin.mediation.hybridAds.MaxHybridNativeAdActivity
+com.applovin.mediation.MaxDebuggerActivity
+com.applovin.mediation.MaxDebuggerDetailActivity
+com.applovin.mediation.MaxDebuggerMultiAdActivity
+com.applovin.mediation.MaxDebuggerAdUnitsListActivity
+com.applovin.mediation.MaxDebuggerAdUnitDetailActivity
+com.applovin.mediation.MaxDebuggerTestLiveNetworkActivity
+com.applovin.mediation.MaxDebuggerTestModeNetworkActivity
+com.applovin.creative.MaxCreativeDebuggerActivity
+com.applovin.creative.MaxCreativeDebuggerDisplayedAdActivity
+com.google.android.gms.ads.AdActivity
+com.google.android.gms.ads.OutOfContextTestingActivity
+com.facebook.ads.AudienceNetworkActivity
+com.android.billingclient.api.ProxyBillingActivity
+com.google.android.gms.measurement.AppMeasurementService
+com.yandex.metrica.MetricaService
+com.yandex.metrica.ConfigurationService
+com.yandex.metrica.ConfigurationJobService
+com.applovin.impl.sdk.utils.AppKilledService
+com.applovin.impl.adview.activity.FullscreenAdService
+com.google.android.gms.measurement.AppMeasurementJobService
+com.google.android.gms.ads.AdService
+com.google.android.gms.measurement.AppMeasurementReceiver
 
 firebaseinstallations.googleapis.com
 googleads.g.doubleclick.net
