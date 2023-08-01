@@ -1,0 +1,25 @@
+# trackers to be categorised later
+
+# televizio app 
+com.google.android.gms.ads.AdActivity
+com.google.android.gms.ads.OutOfContextTestingActivity
+com.facebook.ads.AudienceNetworkActivity
+com.vungle.warren.ui.VungleActivity
+com.android.billingclient.api.ProxyBillingActivity
+com.bytedance.sdk.openadsdk.activity.TTLandingPageActivity
+com.bytedance.sdk.openadsdk.activity.TTPlayableLandingPageActivity
+com.bytedance.sdk.openadsdk.activity.TTVideoLandingPageLink2Activity
+com.bytedance.sdk.openadsdk.activity.TTRewardVideoActivity
+com.bytedance.sdk.openadsdk.activity.TTRewardExpressVideoActivity
+com.bytedance.sdk.openadsdk.activity.TTFullScreenVideoActivity
+com.bytedance.sdk.openadsdk.activity.TTFullScreenExpressVideoActivity
+com.bytedance.sdk.openadsdk.activity.TTInterstitialActivity
+com.bytedance.sdk.openadsdk.activity.TTInterstitialExpressActivity
+com.bytedance.sdk.openadsdk.activity.TTDelegateActivity
+com.bytedance.sdk.openadsdk.activity.TTWebsiteActivity
+com.bytedance.sdk.openadsdk.activity.TTAppOpenAdActivity
+com.google.android.gms.ads.AdService
+com.google.android.gms.measurement.AppMeasurementService
+com.google.android.gms.measurement.AppMeasurementJobService
+com.bytedance.sdk.openadsdk.multipro.aidl.BinderPoolService
+com.google.android.gms.measurement.AppMeasurementReceiver
