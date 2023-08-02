@@ -23,3 +23,23 @@ com.google.android.gms.measurement.AppMeasurementService
 com.google.android.gms.measurement.AppMeasurementJobService
 com.bytedance.sdk.openadsdk.multipro.aidl.BinderPoolService
 com.google.android.gms.measurement.AppMeasurementReceiver
+
+
+# 4 Trackers robinhood app
+
+com.google.android.gms.measurement.AppMeasurementService
+com.google.android.gms.measurement.AppMeasurementJobService
+com.adjust.sdk.AdjustReferrerReceiver
+com.google.android.gms.measurement.AppMeasurementReceiver
+
+# 9 Trackers webull app
+
+com.facebook.ads.AudienceNetworkActivity
+com.android.billingclient.api.ProxyBillingActivity
+com.google.android.gms.analytics.CampaignTrackingService
+com.google.android.gms.analytics.AnalyticsService
+com.google.android.gms.analytics.AnalyticsJobService
+com.google.android.gms.measurement.AppMeasurementService
+com.google.android.gms.measurement.AppMeasurementJobService
+com.google.android.gms.analytics.AnalyticsReceiver
+com.google.android.gms.measurement.AppMeasurementReceiver
