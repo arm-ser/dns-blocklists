@@ -1,11 +1,37 @@
-# Date: 11/14/2022
-# Truecaller : v12.27.7 (2448.115b929ab6)
+# Date: 08/02/2023
+# Truecaller : v13.23.8 
 # Collected with:
-# - iodeos : 2.6-20220726-starlte 
+# - iodeos : 2.6-20220726-starlte
+# - inure : build87-trial 
 # - AuroraStore : v4.1.1(41)
 # On Samsung Galaxy s9 : SM-G960F
 # IP Location : Los Angeles, CA
 
+################################################################ inure
+
+com.google.android.gms.ads.AdActivity
+com.amazon.device.ads.DTBAdActivity
+com.clevertap.android.sdk.InAppNotificationActivity
+com.clevertap.android.sdk.inbox.CTInboxActivity
+com.facebook.ads.AudienceNetworkActivity
+com.vungle.warren.ui.VungleActivity
+com.criteo.publisher.CriteoInterstitialActivity
+com.android.billingclient.api.ProxyBillingActivity
+com.amazon.device.ads.DTBInterstitialActivity
+com.appnext.core.ResultActivity
+com.appnext.core.result.ResultPageActivity
+com.clevertap.android.sdk.pushnotification.CTNotificationIntentService
+com.clevertap.android.sdk.pushnotification.amp.CTBackgroundIntentService
+com.clevertap.android.sdk.pushnotification.amp.CTBackgroundJobService
+com.google.android.gms.measurement.AppMeasurementService
+com.google.android.gms.measurement.AppMeasurementJobService
+com.google.android.gms.ads.AdService
+com.appnext.core.AdsService
+com.clevertap.android.sdk.pushnotification.CTPushNotificationReceiver
+com.appsflyer.MultipleInstallBroadcastReceiver
+com.clevertap.android.pushtemplates.PTPushNotificationReceiver
+com.clevertap.android.pushtemplates.PushTemplateReceiver
+com.google.android.gms.measurement.AppMeasurementReceiver
 
 ################################################################ iode OS
 
