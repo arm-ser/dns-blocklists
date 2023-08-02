@@ -79,3 +79,64 @@ com.google.android.gms.measurement.AppMeasurementJobService
 com.urbanairship.push.NotificationProxyReceiver
 com.urbanairship.locale.LocaleChangeReceiver
 com.google.android.gms.measurement.AppMeasurementReceiver
+
+
+# Bofa 1 Trackers
+
+com.inmobile.MeshDiscoveryHelperActivity
+
+# Citi 5 Trackers
+
+com.adobe.marketing.mobile.GriffonFullScreenTakeoverActivity
+com.google.android.gms.measurement.AppMeasurementService
+com.google.android.gms.measurement.AppMeasurementJobService
+com.google.android.gms.measurement.AppMeasurementReceiver
+com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+
+# amex 5 Trackers
+
+com.qualtrics.digital.QualtricsSurveyActivity
+com.qualtrics.digital.QualtricsPopOverActivity
+com.optimizely.ab.android.event_handler.EventRescheduler
+com.qualtrics.digital.QualtricsNotificationManager
+com.optimizely.ab.android.datafile_handler.DatafileRescheduler
+
+# Capital one 5 Trackers
+
+com.inmobile.MeshDiscoveryHelperActivity
+com.google.android.gms.ads.AdActivity
+com.google.android.gms.measurement.AppMeasurementService
+com.google.android.gms.measurement.AppMeasurementJobService
+com.google.android.gms.measurement.AppMeasurementReceiver
+
+# Discovery 23 Trackers
+
+co.acoustic.mobile.push.sdk.notification.NotificationProcessingActivity
+com.apptentive.android.sdk.ApptentiveViewActivity
+co.acoustic.mobile.push.sdk.events.EventsAlarmListener
+co.acoustic.mobile.push.sdk.attributes.AttributesQueueConsumer
+co.acoustic.mobile.push.sdk.registration.RegistrationIntentService
+co.acoustic.mobile.push.sdk.registration.PhoneHomeIntentService
+co.acoustic.mobile.push.sdk.job.MceJobService
+co.acoustic.mobile.push.sdk.messaging.fcm.FcmMessagingService
+co.acoustic.mobile.push.sdk.location.LocationRetrieveService
+co.acoustic.mobile.push.sdk.location.LocationEventsIntentService
+co.acoustic.mobile.push.sdk.location.LocationSyncAlarmListener
+co.acoustic.mobile.push.sdk.beacons.MceBluetoothScanner
+co.acoustic.mobile.push.sdk.beacons.BeaconsVerifier
+com.google.android.gms.measurement.AppMeasurementService
+com.google.android.gms.measurement.AppMeasurementJobService
+co.acoustic.mobile.push.sdk.notification.NotifActionReceiver
+co.acoustic.mobile.push.sdk.wi.AlarmReceiver
+co.acoustic.mobile.push.sdk.location.GeofenceBroadcastReceiver
+co.acoustic.mobile.push.sdk.location.LocationBroadcastReceiver
+co.acoustic.mobile.push.sdk.location.LocationUpdateCaller
+com.apptentive.android.sdk.debug.LogBroadcastReceiver
+com.apptentive.android.sdk.module.engagement.notification.ApptentiveNotificationInteractionBroadcastReceiver
+com.google.android.gms.measurement.AppMeasurementReceiver
+
+# Wells Fargo 2 Trackers
+
+com.google.android.gms.ads.AdActivity
+com.google.android.gms.ads.AdService
+
