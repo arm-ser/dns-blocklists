@@ -140,3 +140,19 @@ com.google.android.gms.measurement.AppMeasurementReceiver
 com.google.android.gms.ads.AdActivity
 com.google.android.gms.ads.AdService
 
+# Credit Karma  14 Trackers
+
+com.zendrive.sdk.services.ZendriveService
+com.zendrive.sdk.services.TripService
+com.google.android.gms.measurement.AppMeasurementService
+com.google.android.gms.measurement.AppMeasurementJobService
+com.zendrive.sdk.receiver.ZendrivePackageReplacedReceiver
+com.zendrive.sdk.receiver.WakeupReceiver
+com.zendrive.sdk.receiver.UserActivityReceiver
+com.zendrive.sdk.receiver.NoPowerLocationUpdateReceiver
+com.zendrive.sdk.receiver.SetupReceiver
+com.zendrive.sdk.receiver.GeofenceReceiver
+com.zendrive.sdk.receiver.BluetoothConnectionStatusReceiver
+com.zendrive.sdk.receiver.HmsActivityReceiver
+com.zendrive.sdk.receiver.BeaconReceiver
+com.google.android.gms.measurement.AppMeasurementReceiver
