@@ -1,0 +1,5 @@
+https://o0.pages.dev/Lite/hosts.txt
+https://o0.pages.dev/Lite/wildcards.txt
+https://badmojr.gitlab.io/1hosts/Lite/hosts.win
+https://o0.pages.dev/Lite/domains.txt
+https://badmojr.gitlab.io/1hosts/Lite/domains.wildcards
