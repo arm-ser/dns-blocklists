@@ -57,6 +57,13 @@ All My Lists in one File: [Raw]
 | [Insta Pro ](https://insta-pro.app/) V9.55                                                           |    [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/instapro)     |
 | All Links in one File: (Just copy and paste into pi-hole)                                            | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/android-all.txt) |
 
+##### Additional
+| Description<img width=300/>                                                                          |                                  List<img width=40>                                  |
+| ---------------------------------------------------------------------------------------------------- |:------------------------------------------------------------------------------------:|
+| Fake Science                                                                                         | [Raw](https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Fake-Science)|
+| [No Google](https://github.com/nickspaargaren/no-google)                                             | [Raw](https://raw.githubusercontent.com/nickspaargaren/no-google/master/pihole-google.txt) |
+| [Hate Groups](https://github.com/chigh/hategroup-dnsbl)                                              | [Raw](https://raw.githubusercontent.com/chigh/hategroup-dnsbl/master/blocklist.txt) |
+
 
 
 ## Tools and OS used
