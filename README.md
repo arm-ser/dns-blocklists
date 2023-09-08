@@ -64,6 +64,8 @@ All My Lists in one File: [Raw]
 | [No Google](https://github.com/nickspaargaren/no-google)                                             | [Raw](https://raw.githubusercontent.com/nickspaargaren/no-google/master/pihole-google.txt) |
 | [Hate Groups](https://github.com/chigh/hategroup-dnsbl)                                              | [Raw](https://raw.githubusercontent.com/chigh/hategroup-dnsbl/master/blocklist.txt) |
 | [Energized Blu](https://github.com/EnergizedProtection/EnergizedBlu)                                 | [Raw](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu) |
+| Collection of lists                                                                                  | [Raw](https://gist.githubusercontent.com/rgstephens/e17f5730e9d172ce9725060b99375c03/raw/d9af16a5d30af89403e471ccd26f1503a65089b0/adlists.list) |
+| All Links in one File: (Just copy and paste into pi-hole)                                            | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/additional-all.txt) |
 
 
 ## Tools and OS used
