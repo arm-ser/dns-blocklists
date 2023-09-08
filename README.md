@@ -63,7 +63,7 @@ All My Lists in one File: [Raw]
 | Fake Science                                                                                         | [Raw](https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Fake-Science)|
 | [No Google](https://github.com/nickspaargaren/no-google)                                             | [Raw](https://raw.githubusercontent.com/nickspaargaren/no-google/master/pihole-google.txt) |
 | [Hate Groups](https://github.com/chigh/hategroup-dnsbl)                                              | [Raw](https://raw.githubusercontent.com/chigh/hategroup-dnsbl/master/blocklist.txt) |
-
+| [Energized Blu](https://github.com/EnergizedProtection/EnergizedBlu)                                 | [Raw](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu) |
 
 
 ## Tools and OS used
