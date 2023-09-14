@@ -1,30 +1,209 @@
-# trackers to be categorised later
+# Android apps
 
-# televizio app 
+# Date: 11/14/2022
+# Gosund : v5.1.72
+# Collected with iodeos : 2.6-20220726-starlte 
+# IP Location : San Francisco, CA
+
+firebaseinstallations.googleapis.com
+firebase-settings.crashlytics.com
+firebaselogging-pa.googleapis.com
+gosund-res.s3.amazonaws.com
+graph.facebook.com
+
+buried.gosund.com
+usapi.gosund.com
+ucsvr.goosund.com
+uss3.gosund.com
+
+mall.tuyaus.com
+images.tuyaus.com
+m1.tuyaus.com
+
+api.anythinktech.com
+da.anythinktech.com
+
+data.flurry.com
+h1.iot-dns.com
+pv.sohu.com
+
+
+# Date: 8/1/2023
+# Telegraph for Android : vT9.6.6 - P10.9.3 (3366)  
+# Collected with inure : build87-trial
+# IP Location : Seattle, CA
+
+com.unity3d.services.ads.adunit.AdUnitActivity
+com.unity3d.services.ads.adunit.AdUnitTransparentActivity
+com.unity3d.services.ads.adunit.AdUnitTransparentSoftwareActivity
+com.unity3d.services.ads.adunit.AdUnitSoftwareActivity
+com.adcolony.sdk.AdColonyInterstitialActivity
+com.adcolony.sdk.AdColonyAdViewActivity
+com.applovin.adview.AppLovinFullscreenActivity
+com.applovin.sdk.AppLovinWebViewActivity
+com.applovin.mediation.hybridAds.MaxHybridMRecAdActivity
+com.applovin.mediation.hybridAds.MaxHybridNativeAdActivity
+com.applovin.mediation.MaxDebuggerActivity
+com.applovin.mediation.MaxDebuggerDetailActivity
+com.applovin.mediation.MaxDebuggerMultiAdActivity
+com.applovin.mediation.MaxDebuggerAdUnitsListActivity
+com.applovin.mediation.MaxDebuggerAdUnitDetailActivity
+com.applovin.mediation.MaxDebuggerTestLiveNetworkActivity
+com.applovin.mediation.MaxDebuggerTestModeNetworkActivity
+com.applovin.creative.MaxCreativeDebuggerActivity
+com.applovin.creative.MaxCreativeDebuggerDisplayedAdActivity
 com.google.android.gms.ads.AdActivity
 com.google.android.gms.ads.OutOfContextTestingActivity
 com.facebook.ads.AudienceNetworkActivity
-com.vungle.warren.ui.VungleActivity
 com.android.billingclient.api.ProxyBillingActivity
-com.bytedance.sdk.openadsdk.activity.TTLandingPageActivity
-com.bytedance.sdk.openadsdk.activity.TTPlayableLandingPageActivity
-com.bytedance.sdk.openadsdk.activity.TTVideoLandingPageLink2Activity
-com.bytedance.sdk.openadsdk.activity.TTRewardVideoActivity
-com.bytedance.sdk.openadsdk.activity.TTRewardExpressVideoActivity
-com.bytedance.sdk.openadsdk.activity.TTFullScreenVideoActivity
-com.bytedance.sdk.openadsdk.activity.TTFullScreenExpressVideoActivity
-com.bytedance.sdk.openadsdk.activity.TTInterstitialActivity
-com.bytedance.sdk.openadsdk.activity.TTInterstitialExpressActivity
-com.bytedance.sdk.openadsdk.activity.TTDelegateActivity
-com.bytedance.sdk.openadsdk.activity.TTWebsiteActivity
-com.bytedance.sdk.openadsdk.activity.TTAppOpenAdActivity
-com.google.android.gms.ads.AdService
 com.google.android.gms.measurement.AppMeasurementService
+com.yandex.metrica.MetricaService
+com.yandex.metrica.ConfigurationService
+com.yandex.metrica.ConfigurationJobService
+com.applovin.impl.sdk.utils.AppKilledService
+com.applovin.impl.adview.activity.FullscreenAdService
 com.google.android.gms.measurement.AppMeasurementJobService
-com.bytedance.sdk.openadsdk.multipro.aidl.BinderPoolService
+com.google.android.gms.ads.AdService
 com.google.android.gms.measurement.AppMeasurementReceiver
 
+firebaseinstallations.googleapis.com
+googleads.g.doubleclick.net
 
+adc3-launch.adcolony.com
+config.unityads.unity3d.com
+
+wd.adcolony.com
+rt.applovin.com
+d.applobin.com
+ms.applvin.com
+
+startup.mobile.yandex.net
+
+# Date: 08/02/2023
+# Truecaller : v13.23.8 
+# Collected with:
+# - iodeos : 2.6-20220726-starlte
+# - inure : build87-trial 
+# - AuroraStore : v4.1.1(41)
+# IP Location : Fresno, CA
+
+################################################################ inure
+
+com.google.android.gms.ads.AdActivity
+com.amazon.device.ads.DTBAdActivity
+com.clevertap.android.sdk.InAppNotificationActivity
+com.clevertap.android.sdk.inbox.CTInboxActivity
+com.facebook.ads.AudienceNetworkActivity
+com.vungle.warren.ui.VungleActivity
+com.criteo.publisher.CriteoInterstitialActivity
+com.android.billingclient.api.ProxyBillingActivity
+com.amazon.device.ads.DTBInterstitialActivity
+com.appnext.core.ResultActivity
+com.appnext.core.result.ResultPageActivity
+com.clevertap.android.sdk.pushnotification.CTNotificationIntentService
+com.clevertap.android.sdk.pushnotification.amp.CTBackgroundIntentService
+com.clevertap.android.sdk.pushnotification.amp.CTBackgroundJobService
+com.google.android.gms.measurement.AppMeasurementService
+com.google.android.gms.measurement.AppMeasurementJobService
+com.google.android.gms.ads.AdService
+com.appnext.core.AdsService
+com.clevertap.android.sdk.pushnotification.CTPushNotificationReceiver
+com.appsflyer.MultipleInstallBroadcastReceiver
+com.clevertap.android.pushtemplates.PTPushNotificationReceiver
+com.clevertap.android.pushtemplates.PushTemplateReceiver
+com.google.android.gms.measurement.AppMeasurementReceiver
+
+################################################################ iode OS
+
+# Domains captured but not blacklisted
+# search5-noneu.truecaller.com
+# filter-store-4-noneu.truecaller.com
+# premium-noneu.truecaller.com
+# profile4-noneu.truecaller.com
+# company-profile-noneu.truecaller.com
+# device-safety-noneu.truecaller.com
+# push-callerid-noneu.truecaller.com
+# search-warnings-noneu.truecaller.com
+# topspammers-noneu.truecaller.com
+# account-noneu.truecaller.com
+# backup-noneu.truecaller.com
+# insights-categorizer-noneu.truecaller.com
+# lastactivity-noneu.truecaller.com
+# messenger-noneu.truecaller.com
+
+presence-grpc-noneu.truecaller.com
+presence-grpc-eu.truecaller.com
+tagging5-noneu.truecaller.com
+edge-locations5-noneu.truecaller.com
+batchlogging4-noneu.truecaller.com
+survey-noneu.truecaller.com
+
+graph.facebook.com
+firebaseinstallations.googleapis.com
+firebaselogging-pa.googleapis.com
+firebse-settings.crashlytics.com
+googleads.g.doubleclick.net
+storage.googleapis.com
+
+launches.appsflyer.com
+inappps.appsflyer.com
+conversions.appsflyer.com
+
+in1.wzrkt.com
+up.apkmos.com
+
+
+################################################################ AuroraStore
+
+fabric.io
+crashlytics.com
+crashlytics.firebase.google.com
+crash..firebase.google.com
+crashlytics.firebase.invertase.io
+appsflyer.com
+ads.facebook.com
+appevents.facebook.com
+marketing.facebook.com
+CampaignTrackingReceiver.facebook.com
+login.facebook.com
+ads.device.amazon.com
+ads.google.com
+AdView.ads.gms.android.google.com
+AdActivity.ads.gms.android.google.com
+AdRequest.ads.gms.android.google.com
+mediation.ads.gms.android.google.com
+doubleclick.ads.gms.android.google.com
+admob.gms.android.google.com
+ads.android.google.com
+ads.unity.google.com
+firebase_ads.firebase.google.com
+analytics.firebase.google.com
+measurement.gms.android.google.com
+firebase_analytics.firebase.google.com
+library.omid.iab.com
+IabHelperImpl.util.prime31.com
+IAB.prime31.com
+publisher.vungle.com
+warren.vungle.com
+
+# Date: 11/14/2022
+# Insta Pro : v9.55
+# Collected with:
+# - iodeos : 2.6-20220726-starlte 
+# - Tracker Control : 2022102501
+# IP Location : Los Angeles, CA
+
+graph.instagram.com
+graph.facebook.com
+b-www.facebook.com
+connect.facebook.net
+edge-mqtt.facebook.com
+lookaside.facebook.com
+mqtt-mini.facebook.com
+web.facebook.com
+
+
+# Date: 09/26/2023
 # 4 Trackers robinhood app
 
 com.google.android.gms.measurement.AppMeasurementService
@@ -32,6 +211,7 @@ com.google.android.gms.measurement.AppMeasurementJobService
 com.adjust.sdk.AdjustReferrerReceiver
 com.google.android.gms.measurement.AppMeasurementReceiver
 
+# Date: 09/26/2023
 # 9 Trackers webull app
 
 com.facebook.ads.AudienceNetworkActivity
@@ -44,7 +224,8 @@ com.google.android.gms.measurement.AppMeasurementJobService
 com.google.android.gms.analytics.AnalyticsReceiver
 com.google.android.gms.measurement.AppMeasurementReceiver
 
-# 33 Trackers FotMob
+# Date: 09/26/2023
+# 33 Trackers FotMob app
 
 com.google.android.gms.ads.AdActivity
 com.urbanairship.push.NotificationProxyActivity
@@ -80,11 +261,12 @@ com.urbanairship.push.NotificationProxyReceiver
 com.urbanairship.locale.LocaleChangeReceiver
 com.google.android.gms.measurement.AppMeasurementReceiver
 
-
+# Date: 09/26/2023
 # Bofa 1 Trackers
 
 com.inmobile.MeshDiscoveryHelperActivity
 
+# Date: 09/26/2023
 # Citi 5 Trackers
 
 com.adobe.marketing.mobile.GriffonFullScreenTakeoverActivity
@@ -93,6 +275,7 @@ com.google.android.gms.measurement.AppMeasurementJobService
 com.google.android.gms.measurement.AppMeasurementReceiver
 com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
 
+# Date: 09/26/2023
 # amex 5 Trackers
 
 com.qualtrics.digital.QualtricsSurveyActivity
@@ -101,6 +284,7 @@ com.optimizely.ab.android.event_handler.EventRescheduler
 com.qualtrics.digital.QualtricsNotificationManager
 com.optimizely.ab.android.datafile_handler.DatafileRescheduler
 
+# Date: 09/26/2023
 # Capital one 5 Trackers
 
 com.inmobile.MeshDiscoveryHelperActivity
@@ -109,6 +293,7 @@ com.google.android.gms.measurement.AppMeasurementService
 com.google.android.gms.measurement.AppMeasurementJobService
 com.google.android.gms.measurement.AppMeasurementReceiver
 
+# Date: 09/26/2023
 # Discovery 23 Trackers
 
 co.acoustic.mobile.push.sdk.notification.NotificationProcessingActivity
@@ -135,11 +320,13 @@ com.apptentive.android.sdk.debug.LogBroadcastReceiver
 com.apptentive.android.sdk.module.engagement.notification.ApptentiveNotificationInteractionBroadcastReceiver
 com.google.android.gms.measurement.AppMeasurementReceiver
 
+# Date: 09/26/2023
 # Wells Fargo 2 Trackers
 
 com.google.android.gms.ads.AdActivity
 com.google.android.gms.ads.AdService
 
+# Date: 09/26/2023
 # Credit Karma  14 Trackers
 
 com.zendrive.sdk.services.ZendriveService
@@ -157,29 +344,14 @@ com.zendrive.sdk.receiver.HmsActivityReceiver
 com.zendrive.sdk.receiver.BeaconReceiver
 com.google.android.gms.measurement.AppMeasurementReceiver
 
+# Date: 09/26/2023
 # Blue WhatsApp 3 Trackers
 
 com.google.android.gms.analytics.AnalyticsService
 com.google.android.gms.analytics.AnalyticsJobService
 com.google.android.gms.analytics.AnalyticsReceiver
 
-# Credit Karma 14 Trackers
-
-com.zendrive.sdk.services.ZendriveService
-com.zendrive.sdk.services.TripService
-com.google.android.gms.measurement.AppMeasurementService
-com.google.android.gms.measurement.AppMeasurementJobService
-com.zendrive.sdk.receiver.ZendrivePackageReplacedReceiver
-com.zendrive.sdk.receiver.WakeupReceiver
-com.zendrive.sdk.receiver.UserActivityReceiver
-com.zendrive.sdk.receiver.NoPowerLocationUpdateReceiver
-com.zendrive.sdk.receiver.SetupReceiver
-com.zendrive.sdk.receiver.GeofenceReceiver
-com.zendrive.sdk.receiver.BluetoothConnectionStatusReceiver
-com.zendrive.sdk.receiver.HmsActivityReceiver
-com.zendrive.sdk.receiver.BeaconReceiver
-com.google.android.gms.measurement.AppMeasurementReceiver
-
+# Date: 09/26/2023
 # Coinbase 6 Trackers
 
 com.google.android.gms.ads.AdActivity
@@ -189,6 +361,7 @@ com.google.android.gms.ads.AdService
 com.appsflyer.MultipleInstallBroadcastReceiver
 com.google.android.gms.measurement.AppMeasurementReceiver
 
+# Date: 09/26/2023
 # Coinbase Wallet 5 Trackers
 
 com.google.android.gms.ads.AdActivity
@@ -197,6 +370,7 @@ com.google.android.gms.measurement.AppMeasurementJobService
 com.google.android.gms.ads.AdService
 com.google.android.gms.measurement.AppMeasurementReceiver
 
+# Date: 09/26/2023
 # Chess.com 33 Trackers
 
 com.amazon.device.ads.DTBInterstitialActivity
@@ -233,6 +407,7 @@ com.applovin.impl.sdk.utils.AppKilledService
 com.applovin.impl.adview.activity.FullscreenAdService
 com.google.android.gms.measurement.AppMeasurementReceiver
 
+# Date: 09/26/2023
 # Televizo 22 Trackers
 
 com.google.android.gms.ads.AdActivity
@@ -258,7 +433,7 @@ com.google.android.gms.measurement.AppMeasurementJobService
 com.bytedance.sdk.openadsdk.multipro.aidl.BinderPoolService
 com.google.android.gms.measurement.AppMeasurementReceiver
 
-
+# Date: 09/26/2023
 # OfferUp 16 Trackers
 
 com.android.billingclient.api.ProxyBillingActivity
