@@ -38,26 +38,7 @@ This is a blacklist collection for my personal use in [pi-hole](https://pi-hole.
 | Amazon Fire TV Metadata \*                                | [Perflyst](https://github.com/Perflyst)                         |                                       [Raw](https://perflyst.github.io/PiHoleBlocklist/AmazonFireTV.txt)                                       |
 | All Links in one File: (Just copy and paste into pi-hole) | arm-ser/dns-blocklists                                          |   [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/71b5f1c36d6f2de19e98e3cd46f588aaadb21f31/specific-services-and-devices.txt)   |
 
-### My Lists
-
-All My Lists in one File: [Raw]
-
-##### TV
-| Description<img width=300/>         | List<img width=40> | 
-| ----------------------------------- |:------------------:|
-| Handpicked from my Fire TV Stick 4K |        Raw         |
-
-
-##### Android
-| Description<img width=300/>                                                                          |                                  List<img width=40>                                  |
-| ---------------------------------------------------------------------------------------------------- |:------------------------------------------------------------------------------------:|
-| [Gosund](https://play.google.com/store/apps/details?id=com.gosund.smart) v5.1.72                     |     [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/gosund)      |
-| [Graph Messenger](https://play.google.com/store/apps/details?id=ir.ilmili.telegraph) T9.0.2 - P10.3  |    [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/telegraph)    |
-| [Truecaller](https://play.google.com/store/apps/details?id=com.truecaller) v12.27.7 Premium Unlocked |   [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/truecaller)    |
-| [Insta Pro ](https://insta-pro.app/) V9.55                                                           |    [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/instapro)     |
-| All Links in one File: (Just copy and paste into pi-hole)                                            | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/android-all.txt) |
-
-##### Additional
+### Additional
 | Description<img width=300/>                                                                          |                                  List<img width=40>                                  |
 | ---------------------------------------------------------------------------------------------------- |:------------------------------------------------------------------------------------:|
 | Fake Science                                                                                         | [Raw](https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Fake-Science)|
@@ -70,9 +51,20 @@ All My Lists in one File: [Raw]
 | All Links in one File: (Just copy and paste into pi-hole)                                            | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/additional-all.txt) |
 
 
+
+### My Lists
+
+##### Android
+| Description<img width=300/>                                                                          |                                  List<img width=40>                                  |
+| ---------------------------------------------------------------------------------------------------- |:------------------------------------------------------------------------------------:|
+| Android                   |     [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/other)      |
+
+
 ## Tools and OS used
 - [Tracker Control](https://f-droid.org/packages/net.kollnig.missioncontrol.fdroid/) 
 - [iodéOS](https://iode.tech/en/iodeos-en/)
+- [Inure App Manager](https://github.com/Hamza417/Inure)
+- 
 ## External Resources 
 - [What is pi-hole?](https://github.com/pi-hole/pi-hole)  
 - [Adding lists to pi-hole](https://www.sammatthews.co.uk/2022/02/pi-hole-ad-lists/)
