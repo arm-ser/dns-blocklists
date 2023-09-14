@@ -257,3 +257,23 @@ com.google.android.gms.measurement.AppMeasurementService
 com.google.android.gms.measurement.AppMeasurementJobService
 com.bytedance.sdk.openadsdk.multipro.aidl.BinderPoolService
 com.google.android.gms.measurement.AppMeasurementReceiver
+
+
+# OfferUp 16 Trackers
+
+com.android.billingclient.api.ProxyBillingActivity
+com.appboy.ui.AppboyWebViewActivity
+com.appboy.ui.activities.AppboyFeedActivity
+com.appboy.ui.activities.AppboyContentCardsActivity
+com.google.android.ads.mediationtestsuite.activities.HomeActivity
+com.google.android.ads.mediationtestsuite.activities.NetworkDetailActivity
+com.google.android.ads.mediationtestsuite.activities.ConfigurationItemDetailActivity
+com.google.android.ads.mediationtestsuite.activities.ConfigurationItemsSearchActivity
+com.google.android.gms.ads.AdActivity
+com.google.android.gms.ads.OutOfContextTestingActivity
+com.facebook.ads.AudienceNetworkActivity
+com.amazon.device.ads.DTBInterstitialActivity
+com.google.android.gms.ads.AdService
+com.google.android.gms.measurement.AppMeasurementService
+com.google.android.gms.measurement.AppMeasurementJobService
+com.google.android.gms.measurement.AppMeasurementReceiver
