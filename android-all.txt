@@ -1,4 +1,0 @@
-https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/gosund
-https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/telegraph
-https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/truecaller
-https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/instapro
