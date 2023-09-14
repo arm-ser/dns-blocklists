@@ -64,7 +64,7 @@ This is a blacklist collection for my personal use in [pi-hole](https://pi-hole.
 - [Tracker Control](https://f-droid.org/packages/net.kollnig.missioncontrol.fdroid/) 
 - [iodéOS](https://iode.tech/en/iodeos-en/)
 - [Inure App Manager](https://github.com/Hamza417/Inure)
-- 
+
 ## External Resources 
 - [What is pi-hole?](https://github.com/pi-hole/pi-hole)  
 - [Adding lists to pi-hole](https://www.sammatthews.co.uk/2022/02/pi-hole-ad-lists/)
