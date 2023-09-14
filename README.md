@@ -11,6 +11,12 @@ This is a blacklist collection for my personal use in [pi-hole](https://pi-hole.
  
 ### Collections
 
+<p align="center" style="margin-top: 50px;">
+  Everything in one <a href="https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/all.txt" style="font-size: 28px;" > File</a>
+</p>
+
+----
+
 | Description<img width=370/>                                        | Source<img width=120/>                      |                                    List<img width=40>                                    |
 |:------------------------------------------------------------------ |:------------------------------------------- |:----------------------------------------------------------------------------------------:|
 | My Firebog in one File : (Just copy and paste into pi-hole)        | [The Firebog](https://firebog.net/)         |                  [Raw](https://v.firebog.net/hosts/lists.php?type=tick)                  |
