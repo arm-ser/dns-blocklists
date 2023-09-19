@@ -469,3 +469,21 @@ com.google.android.gms.ads.AdService
 com.google.android.gms.measurement.AppMeasurementService
 com.google.android.gms.measurement.AppMeasurementJobService
 com.google.android.gms.measurement.AppMeasurementReceiver
+
+
+# DoorDash 14 Trackers
+
+com.instabug.survey.ui.SurveyActivity
+com.instabug.survey.announcements.ui.activity.AnnouncementActivity
+com.instabug.bug.view.reporting.ReportingContainerActivity
+com.instabug.chat.ui.ChatActivity
+com.instabug.featuresrequest.ui.FeaturesRequestActivity
+com.instabug.library.internal.video.RequestPermissionActivity
+com.instabug.library.invocation.invocationdialog.InstabugDialogActivity
+com.instabug.library.ui.onboarding.OnboardingActivity
+com.instabug.terminations.TerminationsDetectorService
+com.instabug.library.internal.video.ScreenRecordingService
+com.instabug.library.screenshot.ScreenshotCaptureService
+com.google.android.gms.measurement.AppMeasurementService
+com.google.android.gms.measurement.AppMeasurementJobService
+com.google.android.gms.measurement.AppMeasurementReceiver
