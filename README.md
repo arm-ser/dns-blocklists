@@ -54,6 +54,7 @@ This is a blacklist collection for my personal use in [pi-hole](https://pi-hole.
 | Collection of lists                                                                                  | [Raw](https://gist.githubusercontent.com/rgstephens/e17f5730e9d172ce9725060b99375c03/raw/d9af16a5d30af89403e471ccd26f1503a65089b0/adlists.list) |
 | Tracking NL                                                                                          | [Raw](https://blocklistproject.github.io/Lists/alt-version/tracking-nl.txt) |
 | 1Hosts (Lite) List Collection                                                                        | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/1Hosts.txt) |
+| Mullvad Lists                                                                                        | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/mullvad-lists.txt) |
 | All Links in one File: (Just copy and paste into pi-hole)                                            | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/additional-all.txt) |
 
 
