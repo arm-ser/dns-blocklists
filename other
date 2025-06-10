@@ -903,4 +903,13 @@ com.applovin.impl.adview.activity.FullscreenAdService
 com.bytedance.sdk.openadsdk.multipro.aidl.BinderPoolService
 com.google.android.gms.measurement.AppMeasurementReceiver
 
-#
+# Aqara and Lumi domains for blocking device cloud communication
+0.0.0.0 aqara.com
+0.0.0.0 lumi.ai
+0.0.0.0 lumiunited.com
+0.0.0.0 lumi.cool
+0.0.0.0 appcloud2us.api.io.mi.com
+0.0.0.0 ot.io.mi.com
+0.0.0.0 us.ot.io.mi.com
+0.0.0.0 api.io.mi.com
+0.0.0.0 us.api.io.mi.com
