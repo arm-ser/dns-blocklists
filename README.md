@@ -13,7 +13,7 @@ Copy and paste the URL directly into Pi-hole's blocklist settings.
 ## Collections
 
 | Collection | Source | List |
-|:-----------|:-------|:----:|
+|------------|--------|------|
 | Ads, Tracking & Telemetry | arm-ser/dns-blocklists | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/ads-tracking-telemetry.txt) |
 | Specific Services & Devices | arm-ser/dns-blocklists | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/specific-services-and-devices.txt) |
 | Additional Lists | arm-ser/dns-blocklists | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/additional-all.txt) |
@@ -27,7 +27,7 @@ Copy and paste the URL directly into Pi-hole's blocklist settings.
 ### Ads, Tracking & Telemetry
 
 | Description | Source | List |
-|:------------|:-------|:----:|
+|-------------|--------|------|
 | Tracking & Telemetry | [Notrack](https://gitlab.com/quidsup/notrack-blocklists) | [Raw](https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt) |
 | Ads & Tracking | [Developer Dan](https://github.com/lightswitch05/hosts) | [Raw](https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt) |
 | Ads List | [Blocklistproject](https://github.com/blocklistproject/Lists) | [Raw](https://blocklistproject.github.io/Lists/alt-version/ads-nl.txt) |
@@ -37,7 +37,7 @@ Copy and paste the URL directly into Pi-hole's blocklist settings.
 ### Smart TV & Devices
 
 | Description | Source | List |
-|:------------|:-------|:----:|
+|-------------|--------|------|
 | Smart TV Metadata & Telemetry | [Technoy](https://www.technoy.de/lists/blocklists-fuer-pihole/) | [Raw](https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt) |
 | Smart TV Metadata & Telemetry | [H. Kamran](https://github.com/hkamran80) | [Raw](https://gist.githubusercontent.com/hkamran80/779019103fcd306979411d44c8d38459/raw/e0f084b396bb8ffcb390c8e7272ae96a6c292d10/SmartTV2.txt) |
 | Smart TV Metadata & Telemetry | [Perflyst](https://github.com/Perflyst) | [Raw](https://perflyst.github.io/PiHoleBlocklist/SmartTV.txt) |
@@ -47,7 +47,7 @@ Copy and paste the URL directly into Pi-hole's blocklist settings.
 ### Additional
 
 | Description | List |
-|:------------|:----:|
+|-------------|------|
 | Fake Science | [Raw](https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Fake-Science) |
 | No Google | [Raw](https://raw.githubusercontent.com/nickspaargaren/no-google/master/pihole-google.txt) |
 | Hate Groups | [Raw](https://raw.githubusercontent.com/chigh/hategroup-dnsbl/master/blocklist.txt) |
@@ -58,7 +58,7 @@ Copy and paste the URL directly into Pi-hole's blocklist settings.
 ### My Lists
 
 | Description | List |
-|:------------|:----:|
+|-------------|------|
 | Android | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/other) |
 
 ---
