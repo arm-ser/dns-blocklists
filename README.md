@@ -12,6 +12,8 @@ Copy and paste the URL directly into Pi-hole's blocklist settings.
 
 ## Collections
 
+<div align="center">
+
 | Collection<img width=300/> | Source<img width=200/> | List<img width=100/> |
 |------------|--------|------|
 | Ads, Tracking & Telemetry | arm-ser/dns-blocklists | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/ads-tracking-telemetry.txt) |
@@ -20,11 +22,15 @@ Copy and paste the URL directly into Pi-hole's blocklist settings.
 | Firebog Lists | [The Firebog](https://firebog.net/) | [Raw](https://v.firebog.net/hosts/lists.php?type=tick) |
 | Blocklists Info | [Blocklists Info](https://blocklists.info/) | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/blocklists.info.txt) |
 
+</div>
+
 ---
 
 ## Individual Lists
 
 ### Ads, Tracking & Telemetry
+
+<div align="center">
 
 | Description<img width=300/> | Source<img width=200/> | List<img width=100/> |
 |-------------|--------|------|
@@ -34,7 +40,11 @@ Copy and paste the URL directly into Pi-hole's blocklist settings.
 | Privacy | [Blocklistproject](https://github.com/blocklistproject/Lists) | [Raw](https://blocklistproject.github.io/Lists/alt-version/piracy-nl.txt) |
 | Tracking | [Blocklistproject](https://github.com/blocklistproject/Lists) | [Raw](https://blocklistproject.github.io/Lists/alt-version/tracking-nl.txt) |
 
+</div>
+
 ### Smart TV & Devices
+
+<div align="center">
 
 | Description<img width=300/> | Source<img width=200/> | List<img width=100/> |
 |-------------|--------|------|
@@ -44,7 +54,11 @@ Copy and paste the URL directly into Pi-hole's blocklist settings.
 | Samsung Smart TV | [Matthias Marquardt](https://github.com/marq24) | [Raw](https://raw.githubusercontent.com/marq24/pihole-blocklist/master/samsung-smart-tv.txt) |
 | Amazon Fire TV Metadata * | [Perflyst](https://github.com/Perflyst) | [Raw](https://perflyst.github.io/PiHoleBlocklist/AmazonFireTV.txt) |
 
+</div>
+
 ### Additional
+
+<div align="center">
 
 | Description<img width=300/> | List<img width=100/> |
 |-------------|------|
@@ -55,11 +69,17 @@ Copy and paste the URL directly into Pi-hole's blocklist settings.
 | 1Hosts (Lite) | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/1Hosts.txt) |
 | Mullvad Lists | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/mullvad-lists.txt) |
 
+</div>
+
 ### My Lists
+
+<div align="center">
 
 | Description<img width=300/> | List<img width=100/> |
 |-------------|------|
 | Android | [Raw](https://raw.githubusercontent.com/arm-ser/dns-blocklists/main/other) |
+
+</div>
 
 ---
 
